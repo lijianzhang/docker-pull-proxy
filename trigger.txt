@@ -1,1 +1,1 @@
-registry.k8s.io/sig-storage/csi-node-driver-registrar:v2.10.1 registry.cn-hangzhou.aliyuncs.com/sig-storage/csi-node-driver-registrar:v2.10.1
+registry.k8s.io/sig-storage/csi-node-driver-registrar:v2.10.1 registry.cn-hangzhou.aliyuncs.com/lijianzhang/csi-node-driver-registrar:v2.10.1
