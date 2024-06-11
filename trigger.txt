@@ -1,1 +1,1 @@
-rook/ceph:v1.14.5 registry.cn-hangzhou.aliyuncs.com/lijianzhang/rook/ceph:v1.14.5
+rook/ceph:v1.14.5 registry.cn-hangzhou.aliyuncs.com/lijianzhang/rook-ceph:v1.14.5
