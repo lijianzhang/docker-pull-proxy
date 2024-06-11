@@ -1,1 +1,5 @@
-registry.k8s.io/sig-storage/csi-node-driver-registrar:v2.10.1 registry.cn-hangzhou.aliyuncs.com/lijianzhang/csi-node-driver-registrar:v2.10.1
+quay.io/cephcsi/cephcsi:v3.11.0 registry.cn-hangzhou.aliyuncs.com/lijianzhang/cephcsi:v3.11.0
+registry.k8s.io/sig-storage/csi-resizer:v1.10.1 registry.cn-hangzhou.aliyuncs.com/lijianzhang/csi-resizer:v1.10.1
+registry.k8s.io/sig-storage/csi-provisioner:v4.0.1 registry.cn-hangzhou.aliyuncs.com/lijianzhang/csi-provisioner:v4.0.1
+registry.k8s.io/sig-storage/csi-snapshotter:v7.0.2 registry.cn-hangzhou.aliyuncs.com/lijianzhang/csi-snapshotter:v7.0.2
+registry.k8s.io/sig-storage/csi-attacher:v4.5.1" registry.cn-hangzhou.aliyuncs.com/lijianzhang/csi-attacher:v4.5.1"
