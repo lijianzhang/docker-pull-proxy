@@ -1,1 +1,1 @@
-portainer/agent:2.20.3 registry.cn-hangzhou.aliyuncs.com/lijianzhang/portainer-agent:v2.20.3
+node:18-alpine registry.cn-hangzhou.aliyuncs.com/lijianzhang/node:18-alpine
