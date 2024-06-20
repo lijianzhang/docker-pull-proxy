@@ -1,1 +1,1 @@
-node:18-alpine registry.cn-hangzhou.aliyuncs.com/lijianzhang/node:18-alpine
+kubesphere/ks-installer:v3.4.1 registry.cn-hangzhou.aliyuncs.com/lijianzhang/kubesphere-ks-installer:v3.4.1
