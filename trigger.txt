@@ -1,1 +1,1 @@
-bitnami/etcd:3.5.10-debian-11-r2 registry.cn-hangzhou.aliyuncs.com/lijianzhang/bitnami_etcd:3.5.10-debian-11-r2
+apache/apisix:3.9.1-debian registry.cn-hangzhou.aliyuncs.com/lijianzhang/apache_apisix:3.9.1-debian
