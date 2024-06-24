@@ -1,1 +1,2 @@
-apache/apisix:3.9.1-debian registry.cn-hangzhou.aliyuncs.com/lijianzhang/apache_apisix:3.9.1-debian
+registry.k8s.io/gateway-api/admission-server:v0.8.1 registry.cn-hangzhou.aliyuncs.com/lijianzhang/gateway-api_admission-server:v0.8.1
+registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.1.1 registry.cn-hangzhou.aliyuncs.com/lijianzhang/kube-webhook-certgen:v1.1.1
