@@ -1,2 +1,2 @@
-ghcr.io/devmachine-fr/cert-manager-alidns-webhook/cert-manager-alidns-webhook:0.3.0 registry.cn-hangzhou.aliyuncs.com/lijianzhang/cert-manager-alidns-webhook:0.3.0
+registry.k8s.io/sig-storage/nfs-subdir-external-provisioner:v4.0.2 registry.cn-hangzhou.aliyuncs.com/lijianzhang/nfs-subdir-external-provisioner:v4.0.2
 
