@@ -1,2 +1,4 @@
-quay.io/coreos/etcd:v3.5.9  registry.cn-hangzhou.aliyuncs.com/lijianzhang/etcd:v3.5.9
-
+kubesphere/ks-apiserver:v3.4.1  registry.cn-hangzhou.aliyuncs.com/lijianzhang/ks-apiserver:v3.4.1
+kubesphere/ks-console:v3.4.1  registry.cn-hangzhou.aliyuncs.com/lijianzhang/ks-console:v3.4.1
+kubesphere/ks-controller-manager:v3.4.1 registry.cn-hangzhou.aliyuncs.com/lijianzhang/ks-controller-manager:v3.4.1
+kubesphere/ks-installer:v3.4.1 registry.cn-hangzhou.aliyuncs.com/lijianzhang/ks-installer:v3.4.1
