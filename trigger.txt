@@ -1,4 +1,1 @@
-kubesphere/ks-apiserver:v3.4.1  registry.cn-hangzhou.aliyuncs.com/lijianzhang/ks-apiserver:v3.4.1
-kubesphere/ks-console:v3.4.1  registry.cn-hangzhou.aliyuncs.com/lijianzhang/ks-console:v3.4.1
-kubesphere/ks-controller-manager:v3.4.1 registry.cn-hangzhou.aliyuncs.com/lijianzhang/ks-controller-manager:v3.4.1
-kubesphere/ks-installer:v3.4.1 registry.cn-hangzhou.aliyuncs.com/lijianzhang/ks-installer:v3.4.1
+rainbond/nfs-client-provisioner:v4.0.2 registry.cn-hangzhou.aliyuncs.com/lijianzhang/nfs-client-provisioner:v4.0.2
