@@ -1,1 +1,1 @@
-rainbond/nfs-client-provisioner:v4.0.2 registry.cn-hangzhou.aliyuncs.com/lijianzhang/nfs-client-provisioner:v4.0.2
+tzfun/etcd-workbench:latest registry.cn-hangzhou.aliyuncs.com/lijianzhang/etcd-workbench:latest
