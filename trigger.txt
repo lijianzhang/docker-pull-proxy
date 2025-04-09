@@ -1,1 +1,1 @@
-tzfun/etcd-workbench:latest registry.cn-hangzhou.aliyuncs.com/lijianzhang/etcd-workbench:latest
+naaive/weaviate-ui:latest registry.cn-hangzhou.aliyuncs.com/lijianzhang/weaviate-ui:latest
