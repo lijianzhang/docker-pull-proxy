@@ -1,1 +1,1 @@
-aledbf/kube-keepalived-vip:0.35 registry.cn-hangzhou.aliyuncs.com/lijianzhang/kube-keepalived-vip:0.35
+kubesphere/openelb:v0.5.1 registry.cn-hangzhou.aliyuncs.com/lijianzhang/openelb:v0.5.1
