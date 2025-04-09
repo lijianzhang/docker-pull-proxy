@@ -1,1 +1,2 @@
-naaive/weaviate-ui:latest registry.cn-hangzhou.aliyuncs.com/lijianzhang/weaviate-ui:latest
+kubespheredev/kube-webhook-certgen:v1.1.1 registry.cn-hangzhou.aliyuncs.com/lijianzhang/kube-webhook-certgen:v1.1.1
+kubesphere/openelb:v0.5.0 registry.cn-hangzhou.aliyuncs.com/lijianzhang/openelb:v0.5.0
