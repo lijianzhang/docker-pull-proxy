@@ -1,2 +1,1 @@
-kubespheredev/kube-webhook-certgen:v1.1.1 registry.cn-hangzhou.aliyuncs.com/lijianzhang/kube-webhook-certgen:v1.1.1
-kubesphere/openelb:v0.5.0 registry.cn-hangzhou.aliyuncs.com/lijianzhang/openelb:v0.5.0
+aledbf/kube-keepalived-vip:0.35 registry.cn-hangzhou.aliyuncs.com/lijianzhang/kube-keepalived-vip:0.35
