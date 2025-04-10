@@ -1,1 +1,1 @@
-elasticsearch/elasticsearch:8.5.1 registry.cn-hangzhou.aliyuncs.com/lijianzhang/elasticsearch:8.5.1
+docker.elastic.co/elasticsearch/elasticsearch:8.5.1 registry.cn-hangzhou.aliyuncs.com/lijianzhang/elasticsearch:8.5.1
