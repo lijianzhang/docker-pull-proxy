@@ -1,1 +1,1 @@
-kubesphere/openelb:v0.5.1 registry.cn-hangzhou.aliyuncs.com/lijianzhang/openelb:v0.5.1
+elasticsearch/elasticsearch:8.5.1 registry.cn-hangzhou.aliyuncs.com/lijianzhang/elasticsearch:8.5.1
