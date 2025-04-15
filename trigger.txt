@@ -1,1 +1,1 @@
-eoskin/electron-release-server egistry.cn-hangzhou.aliyuncs.com/lijianzhang/electron-release-serve:latest
+eoskin/electron-release-server registry.cn-hangzhou.aliyuncs.com/lijianzhang/electron-release-serve:latest
