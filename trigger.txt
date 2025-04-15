@@ -1,1 +1,1 @@
-browserless/chrome registry.cn-hangzhou.aliyuncs.com/lijianzhang/chrome:latest
+eoskin/electron-release-server egistry.cn-hangzhou.aliyuncs.com/lijianzhang/electron-release-serve:latest
