@@ -1,1 +1,1 @@
-bitnami/etcd:3.4.16-debian-10-r14 registry.cn-hangzhou.aliyuncs.com/lijianzhang/bitnami/etcd:3.4.16-debian-10-r14
+bitnamilegacy/etcd:3.6 registry.cn-hangzhou.aliyuncs.com/lijianzhang/bitnami/etcd:3.6
