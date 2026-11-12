@@ -1,1 +1,1 @@
-xubiaolin/zerotier-planet:latest registry.cn-hangzhou.aliyuncs.com/lijianzhang/zerotier-planet:latest
+bitnami/etcd:3.4.16-debian-10-r14 registry.cn-hangzhou.aliyuncs.com/lijianzhang/bitnami/etcd:3.4.16-debian-10-r14
