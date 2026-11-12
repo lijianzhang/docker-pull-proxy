@@ -1,1 +1,2 @@
-gotenberg/gotenberg:9 registry.cn-hangzhou.aliyuncs.com/lijianzhang/gotenberg:9
+gotenberg/gotenberg:9.4 registry.cn-hangzhou.aliyuncs.com/lijianzhang/gotenberg:9.4
+
